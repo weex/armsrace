@@ -1,6 +1,6 @@
-import particle_gol_sim as pgol_sim
-import particle_gol_params as pgol_params
-import particle_gol_functions as pgol_func
+import sim as pgol_sim
+import params as pgol_params
+import functions as pgol_func
 
 import matplotlib.pyplot as plt 
 import matplotlib.animation as anim 

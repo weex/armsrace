@@ -1,6 +1,6 @@
 import numpy as np
 from numpy.random import randint as rint
-import particle_gol_functions as pgol_func
+import functions as pgol_func
 
 
 def params(target_n, n_groups):

@@ -1,4 +1,4 @@
-import particle_gol_functions as pgol_func
+import functions as pgol_func
 import numpy as np
 
 
