@@ -24,7 +24,7 @@ def animate(i):
 
 	return particles,
 
-data, params, forces = pgol_params.params(target_n = 400, n_groups = 7)
+data, params, forces = pgol_params.params(target_n = 20, n_groups = 2)
 xlim, ylim = params[2:4]
 x,y = data[:2]
 colors = data[5]
