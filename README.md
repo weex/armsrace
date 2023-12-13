@@ -1,3 +1,11 @@
+armsrace - Generative Adversarial Agents
+
+(based on the engine from ebokai/particle_game_of_life)
+
+For more see py/README.md
+
+--
+
 particle game of life
 
 simulations of particles with asymmetric attraction/repulsion
